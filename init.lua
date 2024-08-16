@@ -1,1 +1,2 @@
+require("vim")
 require("lazyplugin")
